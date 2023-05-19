@@ -1,0 +1,55 @@
+[
+    {
+        "_id": "645497415d894b62e156be8b",
+        "type": "puzzle",
+        "sub_type": "classify",
+        "name": "WinterSummer",
+        "language": "English",
+        "category1": {
+            "Winter": [
+                "Woolen Clothes",
+                "Rain Coats",
+                "sweater"
+            ]
+        },
+        "category2": {
+            "Summer": [
+                "Sun Glass",
+                "Cotton Clothes",
+                "Ice Creams"
+            ]
+        },
+        "question": "Select things for winter and summer",
+        "quiz_audio_text": "Select things for winter and summer",
+        "audio": "audio/AU042529.mp3",
+        "qa_audio_url": "audio/AU042527.mp3",
+        "knowledge_id": [
+            "5a1423116ec3c8412a4c3014"
+        ],
+        "age_level": [
+            99
+        ],
+        "title": "Classification",
+        "subject": "English Vocabulary",
+        "duration": 35,
+        "file_size": 923.4599999999999,
+        "cover_page_image_data": null,
+        "image_data": null,
+        "url_params": null,
+        "answer": null,
+        "game": null,
+        "url": null,
+        "cover_page_img_base64": null,
+        "image_base64": null,
+        "answer_base64": null,
+        "audio_base64": "https://s3.ap-south-1.amazonaws.com/toffeeride.live/audio/AU042529.mp3_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYNDZGHIPV4XNESET%2F20230505%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230505T074625Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=4a2e1bbb3b1cd8fd7147daf757b4ed38d11b9a142355874aa70258d3081a5eaa",
+        "music_base64": null,
+        "word_audio_base64": null,
+        "qa_audio_url_base64": "https://s3.ap-south-1.amazonaws.com/toffeeride.live/audio/AU042527.mp3_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYNDZGHIPV4XNESET%2F20230505%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230505T074625Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=40daec6a2ec7e8adf9f8f384ad1bfc6a611194d1be4173e5b2a94013178e1309",
+        "rhyme_bg_image_base64": null,
+        "rhyme_audio_url_base64": null,
+        "rhyme_images_base64": [],
+        "elements": [],
+        "pages": []
+    }
+]
